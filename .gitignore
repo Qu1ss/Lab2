@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.ppm
+heatmap.txt
+m.txt
+copy_report.txt
+report_sync.txt
+test_out/
+test_out_sync/
